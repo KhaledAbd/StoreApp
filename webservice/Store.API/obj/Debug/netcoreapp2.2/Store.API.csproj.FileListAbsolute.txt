@@ -1,0 +1,14 @@
+/home/khaled/Downloads/Factory/webservice/Store.API/bin/Debug/netcoreapp2.2/Store.API.deps.json
+/home/khaled/Downloads/Factory/webservice/Store.API/bin/Debug/netcoreapp2.2/Store.API.runtimeconfig.json
+/home/khaled/Downloads/Factory/webservice/Store.API/bin/Debug/netcoreapp2.2/Store.API.runtimeconfig.dev.json
+/home/khaled/Downloads/Factory/webservice/Store.API/bin/Debug/netcoreapp2.2/Store.API.dll
+/home/khaled/Downloads/Factory/webservice/Store.API/bin/Debug/netcoreapp2.2/Store.API.pdb
+/home/khaled/Downloads/Factory/webservice/Store.API/obj/Debug/netcoreapp2.2/Store.API.csprojAssemblyReference.cache
+/home/khaled/Downloads/Factory/webservice/Store.API/obj/Debug/netcoreapp2.2/Store.API.csproj.CoreCompileInputs.cache
+/home/khaled/Downloads/Factory/webservice/Store.API/obj/Debug/netcoreapp2.2/Store.API.RazorAssemblyInfo.cache
+/home/khaled/Downloads/Factory/webservice/Store.API/obj/Debug/netcoreapp2.2/Store.API.RazorAssemblyInfo.cs
+/home/khaled/Downloads/Factory/webservice/Store.API/obj/Debug/netcoreapp2.2/Store.API.AssemblyInfoInputs.cache
+/home/khaled/Downloads/Factory/webservice/Store.API/obj/Debug/netcoreapp2.2/Store.API.AssemblyInfo.cs
+/home/khaled/Downloads/Factory/webservice/Store.API/obj/Debug/netcoreapp2.2/Store.API.RazorTargetAssemblyInfo.cache
+/home/khaled/Downloads/Factory/webservice/Store.API/obj/Debug/netcoreapp2.2/Store.API.dll
+/home/khaled/Downloads/Factory/webservice/Store.API/obj/Debug/netcoreapp2.2/Store.API.pdb
